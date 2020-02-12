@@ -26,14 +26,21 @@ Output Format
 Sample Input 0
 
 2
+
 5
+
 3 4 5 2 1
+
 3
+
 3 2 1
+
 Sample Output 0
 
 27
+
 7
+
 Explanation 0
 
 За тест #1: Оптималната стратегия е: 1 + (2*3) + (4*5) => 27
